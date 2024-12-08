@@ -29,7 +29,8 @@ const About = () => {
                 {" "}
                 A software developer with practice in building Responsive and
                 Scalable Web apps. I am well-knowledged in UI/UX principles and
-                practices.
+                practices. In addition to software development, I am also a
+                technical writer--simplifying topics/concepts on the web.
               </p>
             </div>
           </div>
