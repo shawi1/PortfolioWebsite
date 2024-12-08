@@ -8,7 +8,7 @@ import Works from './components/Works';
 
 function App() {
   return (
-    <div className="App">
+    <div className="bg-[#6A744F] text-gray-300">
       <Navbar />
       <Home />
       <About />
